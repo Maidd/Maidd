@@ -6,6 +6,6 @@ Right now I'm currently tinkering with :
 - and possibly much more in the future?!  
 
 I usually prefer working with Rust, C#, TypeScript and Go.  
-Currently enrolled in University for Computer Science. 
+Currently suffering in university for a degree in Computer Science.
 
 [Icon by @potato09101 on Twitter](https://twitter.com/potato09101/status/1730974168924254358)
